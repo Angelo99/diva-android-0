@@ -11,7 +11,7 @@ The idea originated, from a developer’s perspective. The Android security trai
 * Android App developers
 * Android Penetration testers
 * Security professionals
-* Students
+* Studentsx
 
 ## What is included in Diva?
 
